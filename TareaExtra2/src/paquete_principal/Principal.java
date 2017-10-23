@@ -5,10 +5,7 @@
  */
 package paquete_principal;
 
-import paquete_academico.Asignatura;
-import paquete_academico.Carrera;
-import paquete_academico.Docente;
-import paquete_academico.Universidad;
+import paquete_academico.*;
 import paquete_estudiante.Estudiante;
 import paquete_general.Pais;
 
